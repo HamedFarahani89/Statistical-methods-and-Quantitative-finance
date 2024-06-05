@@ -5,3 +5,7 @@ In this Jupyter notebook, I utilized the Monte Carlo method to simulate Bitcoin 
 ### Ornstein–Uhlenbeck process:
 
 In this Jupyter notebook, I used the Monte Carlo method to simulate Ornstein–Uhlenbeck process to reproduce the intutive Wikipedia plot for 4 O-U process.
+
+### Kramers−Moyal coefficients:
+
+In this Jupyter notebook, we demonstrate how to find and visualize the Kramers-Moyal coefficients for the Ornstein-Uhlenbeck process. 
