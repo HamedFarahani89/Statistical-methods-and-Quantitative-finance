@@ -9,3 +9,7 @@ In this Jupyter notebook, I used the Monte Carlo method to simulate Ornstein–U
 ### Kramers−Moyal coefficients:
 
 In this Jupyter notebook, we demonstrate how to find and visualize the Kramers-Moyal coefficients for the Ornstein-Uhlenbeck process. 
+
+### Random walk:
+I learned this from Griffin Chure's Tutorial, Simulating Random Walks licensed under an MIT license.
+
