@@ -13,3 +13,5 @@ In this Jupyter notebook, we demonstrate how to find and visualize the Kramers-M
 ### Random walk:
 I learned this from Griffin Chure's Tutorial, Simulating Random Walks licensed under an MIT license.
 
+### ARIMA-co2-dataset:
+I applied ARIMA modeling to the CO2 dataset to forecast future values, following the steps outlined in the DigitalOcean tutorial on time series forecasting with ARIMA. Using the tutorial, I iteratively tested various parameter combinations to identify the model with the lowest AIC, ensuring the best fit for the data.
