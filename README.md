@@ -1,3 +1,8 @@
+### TimeSeriesModels:
+
+In this notebook, I reviewed a variety of time series models and applied them to real stock market data downloaded using Yahoo Finance. The models I practiced with include \textbf{Autocorrelation Function}, \textbf{Moving Average Models}, \textbf{Autoregressive Models}, \textbf{Autoregressive Moving Average (ARMA)}, and \textbf{Akaike Information Criterion (AIC)} for model selection. I also explored models for volatility such as \textbf{Conditional Heteroscedasticity}, \textbf{ARCH}, and \textbf{GARCH}, as well as \textbf{Cross Correlation Function} and multivariate models like \textbf{Vector Autoregression (VAR)} and \textbf{Vector Autoregressive Moving Average (VARMA)}. These models were applied to actual financial data for hands-on experience.
+
+
 ### GBM-SDE:
 
 In this Jupyter notebook, I utilized the Monte Carlo method to simulate Bitcoin data over a 2-year period using Geometric Brownian motion.
